@@ -1,0 +1,9 @@
+applications:
+- command: node server.js
+  disk_quota: 1024M
+  domain: cfapps.io
+  host: pilots
+  instances: 1
+  memory: 64M
+  name: pilots
+  stack: cflinuxfs2
