@@ -1,28 +1,40 @@
-// this is some example defaults, I'd suggest replacing this with your own pairs
-// and then .gitignoring this file.
-
-export const defaultState = {
-  assignments: {
-    "0": ["mariash"],
-    "1": ["cdutra", "jraqula"],
-    "2": ["eshort", "Pirolf"],
-    "3": ["kimeberz", "vito"],
+{
+  "assignments": {
+    "0": [
+      "Pirolf"
+    ],
+    "1": [
+      "cdutra",
+      "jraqula"
+    ],
+    "2": [
+      "eshort",
+      "mariash"
+    ],
+    "3": [
+      "kimeberz",
+      "vito"
+    ],
     "4": [],
     "out": [],
     "unassigned": [],
-    "pm": ["alejandro"]
+    "pm": [
+      "alejandro"
+    ]
   },
-  tracks: [
-    "0", "1", "2", "3", "4",
+  "tracks": [
+    "0",
+    "1",
+    "2",
+    "3"
   ],
-  trackNames: {
-    "0": "Backlog",
-    "1": "Backlog",
+  "trackNames": {
+    "0": "TEAMS",
+    "1": "TILE",
     "2": "Backlog",
-    "3": "Design",
-    "4": "Solo"
+    "3": "Design/PM"
   },
-  photos: {
+  "photos": {
     "vito": "https://avatars0.githubusercontent.com/u/1880?v=3&s=72",
     "mariash": "https://avatars1.githubusercontent.com/u/52845?v=3&s=72",
     "kimeberz": "https://avatars0.githubusercontent.com/u/2119227?v=3&s=72",
@@ -32,7 +44,17 @@ export const defaultState = {
     "Pirolf": "https://avatars1.githubusercontent.com/u/5309486?v=3&s=72",
     "alejandro": "https://avatars3.githubusercontent.com/u/17837681?v=3&s=72"
   },
-  badges: { "1": [ "CI" ] },
-  locked: { "kimeberz": true, "vito": true },
-  version: 0,
+  "badges": {
+    "1": [
+      "CI"
+    ]
+  },
+  "locked": {
+    "kimeberz": true,
+    "vito": true,
+    "Pirolf": true,
+    "eshort": true,
+    "cdutra": true
+  },
+  "version": 16
 }
