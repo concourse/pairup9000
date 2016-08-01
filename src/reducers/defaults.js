@@ -1,4 +1,4 @@
-{
+export const defaultState = {
   "assignments": {
     "0": [
       "Pirolf"
