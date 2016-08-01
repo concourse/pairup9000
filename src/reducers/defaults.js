@@ -1,7 +1,7 @@
 export const defaultState = {
   "assignments": {
     "0": [
-      "Pirolf"
+      "joshzarrabi"
     ],
     "1": [
       "cdutra",
@@ -41,7 +41,7 @@ export const defaultState = {
     "jraqula": "https://avatars2.githubusercontent.com/u/4714857?v=3&s=72",
     "eshort": "https://avatars2.githubusercontent.com/u/7635837?v=3&s=72",
     "cdutra": "https://avatars2.githubusercontent.com/u/5061344?v=3&s=72",
-    "Pirolf": "https://avatars1.githubusercontent.com/u/5309486?v=3&s=72",
+    "joshzarrabi": "https://avatars0.githubusercontent.com/u/3689026?v=3&s=72",
     "alejandro": "https://avatars3.githubusercontent.com/u/17837681?v=3&s=72"
   },
   "badges": {
@@ -52,7 +52,7 @@ export const defaultState = {
   "locked": {
     "kimeberz": true,
     "vito": true,
-    "Pirolf": true,
+    "joshzarrabi": true,
     "eshort": true,
     "cdutra": true
   },
