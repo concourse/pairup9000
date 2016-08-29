@@ -2,7 +2,7 @@ export const defaultState = {
   "assignments": {
     "0": [
       "josh",
-      "jraqula"
+      "james"
     ],
     "1": [
       "chris",
