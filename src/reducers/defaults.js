@@ -5,23 +5,20 @@ export const defaultState = {
       "james"
     ],
     "1": [
-      "chris",
-      "clara"
+      "maria",
+      "topher"
     ],
     "2": [
-      "topher",
-      "maria"
+      "chris",
+      "anisha"
     ],
     "3": [
-      "kim",
-      "alex"
+      "clara"
     ],
     "4": [],
-    "out": [],
+    "out": ["kim"],
     "unassigned": [],
-    "pm": [
-      "alejandro"
-    ]
+    "pm": ["alex", "alejandro"]
   },
   "tracks": [
     "0",
@@ -30,10 +27,10 @@ export const defaultState = {
     "3"
   ],
   "trackNames": {
-    "0": "Backlog",
-    "1": "Backlog",
+    "0": "Life",
+    "1": "Life",
     "2": "Tile",
-    "3": "Design/PM"
+    "3": "Backlog"
   },
   "photos": {
     "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=72",
@@ -44,10 +41,11 @@ export const defaultState = {
     "josh": "https://avatars0.githubusercontent.com/u/3689026?v=3&s=72",
     "alejandro": "https://avatars3.githubusercontent.com/u/17837681?v=3&s=72",
     "clara": "https://avatars3.githubusercontent.com/u/19290703?v=3&s=72",
-    "topher": "https://avatars3.githubusercontent.com/u/1895900?v=3&s=72"
+    "topher": "https://avatars3.githubusercontent.com/u/1895900?v=3&s=72",
+    "anisha": "https://avatars3.githubusercontent.com/u/1105019?v=3&s=72"
   },
   "badges": {
-    "1": [
+    "3": [
       "CI"
     ]
   },
