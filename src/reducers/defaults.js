@@ -2,21 +2,18 @@ export const defaultState = {
   "assignments": {
     "0": [
       "josh",
-      "james"
-    ],
-    "1": [
-      "maria",
-      "topher"
-    ],
-    "2": [
-      "chris",
       "anisha"
     ],
-    "3": [
-      "clara"
+    "1": [
+      "chris",
+      "maria"
     ],
+    "2": [
+      "james"
+    ],
+    "3": [],
     "4": [],
-    "out": ["kim"],
+    "out": ["kim", "topher", "clara"],
     "unassigned": [],
     "pm": ["alex", "alejandro"]
   },
@@ -37,7 +34,7 @@ export const defaultState = {
     "maria": "https://avatars1.githubusercontent.com/u/52845?v=3&s=72",
     "kim": "https://avatars0.githubusercontent.com/u/2119227?v=3&s=72",
     "james": "https://avatars2.githubusercontent.com/u/4714857?v=3&s=72",
-    "chris": "https://avatars2.githubusercontent.com/u/5061344?v=3&s=72",
+    "chris": "https://avatars3.githubusercontent.com/u/474000?v=3&s=72",
     "josh": "https://avatars0.githubusercontent.com/u/3689026?v=3&s=72",
     "alejandro": "https://avatars3.githubusercontent.com/u/17837681?v=3&s=72",
     "clara": "https://avatars3.githubusercontent.com/u/19290703?v=3&s=72",
