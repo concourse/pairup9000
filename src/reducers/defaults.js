@@ -1,45 +1,31 @@
 export const defaultState = {
   "assignments": {
-    "0": [
-      "josh",
-      "anisha"
-    ],
-    "1": [
-      "chris",
-      "maria"
-    ],
-    "2": [
-      "james"
-    ],
-    "3": [],
-    "4": [],
-    "out": ["kim", "topher", "clara"],
-    "unassigned": [],
-    "pm": ["alex", "alejandro"]
+    "0": [],
+    "1": [],
+    "2": [],
+    "out": [],
+    "unassigned": ["topher", "clara", "alex", "chris", "josh", "maria"],
+    "pm": ["james", "lindsay"]
   },
   "tracks": [
     "0",
     "1",
-    "2",
-    "3"
+    "2"
   ],
   "trackNames": {
-    "0": "Life",
-    "1": "Life",
-    "2": "Tile",
-    "3": "Backlog"
+    "0": "A",
+    "1": "B",
+    "2": "C"
   },
   "photos": {
-    "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=72",
-    "maria": "https://avatars1.githubusercontent.com/u/52845?v=3&s=72",
-    "kim": "https://avatars0.githubusercontent.com/u/2119227?v=3&s=72",
-    "james": "https://avatars2.githubusercontent.com/u/4714857?v=3&s=72",
-    "chris": "https://avatars3.githubusercontent.com/u/474000?v=3&s=72",
-    "josh": "https://avatars0.githubusercontent.com/u/3689026?v=3&s=72",
-    "alejandro": "https://avatars3.githubusercontent.com/u/17837681?v=3&s=72",
-    "clara": "https://avatars3.githubusercontent.com/u/19290703?v=3&s=72",
-    "topher": "https://avatars3.githubusercontent.com/u/1895900?v=3&s=72",
-    "anisha": "https://avatars3.githubusercontent.com/u/1105019?v=3&s=72"
+    "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=80",
+    "maria": "https://avatars1.githubusercontent.com/u/52845?v=3&s=80",
+    "james": "https://avatars3.githubusercontent.com/u/19274230?v=3&s=80",
+    "lindsay": "https://ca.slack-edge.com/T07RXRUSU-U4Q61BMFC-g3a93dd13dd1-80",
+    "chris": "https://avatars3.githubusercontent.com/u/474000?v=3&s=80",
+    "josh": "https://avatars0.githubusercontent.com/u/3689026?v=3&s=80",
+    "clara": "https://avatars3.githubusercontent.com/u/19290703?v=3&s=80",
+    "topher": "https://avatars3.githubusercontent.com/u/1895900?v=3&s=80"
   },
   "badges": {
     "3": [
