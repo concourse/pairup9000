@@ -4,7 +4,7 @@ export const defaultState = {
     "1": [],
     "2": [],
     "out": [],
-    "unassigned": ["topher", "clara", "alex", "chris", "andrew", "maria", "ergin"],
+    "unassigned": ["topher", "clara", "alex", "chris", "andrew", "maria", "ergin", "jtarchie"],
     "pm": ["james", "lindsay"]
   },
   "tracks": [
@@ -26,7 +26,8 @@ export const defaultState = {
     "andrew": "https://avatars2.githubusercontent.com/u/10427453?v=3&s=80",
     "clara": "https://avatars3.githubusercontent.com/u/19290703?v=3&s=80",
     "topher": "https://avatars3.githubusercontent.com/u/1895900?v=3&s=80",
-    "ergin": "https://avatars3.githubusercontent.com/u/2236882?v=3&s=80"
+    "ergin": "https://avatars3.githubusercontent.com/u/2236882?v=3&s=80",
+    "jtarchie": "https://avatars3.githubusercontent.com/u/75184?v=3&s=80"
   },
   "badges": {
     "3": [
