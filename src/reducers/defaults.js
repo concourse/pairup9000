@@ -4,7 +4,7 @@ export const defaultState = {
     "1": [],
     "2": [],
     "out": [],
-    "unassigned": ["topher", "clara", "alex", "chris", "andrew", "maria", "ergin", "jtarchie"],
+    "unassigned": ["topher", "clara", "alex", "chris", "andrew", "mark", "ergin", "jtarchie"],
     "pm": ["james", "lindsay"]
   },
   "tracks": [
@@ -19,7 +19,7 @@ export const defaultState = {
   },
   "photos": {
     "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=80",
-    "maria": "https://avatars1.githubusercontent.com/u/52845?v=3&s=80",
+    "mark": "https://avatars1.githubusercontent.com/u/1919762?v=3&s=80",
     "james": "https://avatars3.githubusercontent.com/u/19274230?v=3&s=80",
     "lindsay": "https://ca.slack-edge.com/T07RXRUSU-U4Q61BMFC-g3a93dd13dd1-80",
     "chris": "https://avatars3.githubusercontent.com/u/474000?v=3&s=80",
