@@ -4,7 +4,7 @@ export const defaultState = {
     "1": [],
     "2": [],
     "out": [],
-    "unassigned": ["topher", "clara", "alex", "chris", "andrew", "mark", "ergin", "jtarchie"],
+    "unassigned": ["topher", "clara", "alex", "chris", "mark", "jtarchie"],
     "pm": ["james", "lindsay"]
   },
   "tracks": [
