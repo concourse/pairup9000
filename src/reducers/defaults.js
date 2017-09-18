@@ -15,10 +15,10 @@ export const defaultState = {
     "3"
   ],
   "trackNames": {
-    "0": "A",
-    "1": "B",
-    "2": "C",
-    "3": "D"
+    "0": "",
+    "1": "",
+    "2": "",
+    "3": ""
   },
   "photos": {
     "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=80",
