@@ -4,21 +4,24 @@ export const defaultState = {
     "1": [],
     "2": [],
     "3": [],
+    "4": [],
     "out": [],
-    "unassigned": ["topher", "tanzeeb", "alex", "mark", "jtarchie", "gabriel", "joris"],
+    "unassigned": ["topher", "tanzeeb", "alex", "mark", "jtarchie", "gabriel", "joris", "rui", "josh"],
     "pm": ["james", "lindsay"]
   },
   "tracks": [
     "0",
     "1",
     "2",
-    "3"
+    "3",
+    "4"
   ],
   "trackNames": {
     "0": "",
     "1": "",
     "2": "",
-    "3": ""
+    "3": "",
+    "4": ""
   },
   "photos": {
     "alex": "https://avatars0.githubusercontent.com/u/1880?v=3&s=80",
