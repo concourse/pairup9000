@@ -6,7 +6,7 @@ export const defaultState = {
     "3": [],
     "4": [],
     "out": [],
-    "unassigned": ["topher", "mark", "rui", "josh", "nader", "jamie", "divya"],
+    "unassigned": ["topher", "mark", "rui", "josh", "nader", "jamie", "divya", "sameer"],
     "pm": ["alex", "james", "lindsay"]
   },
   "tracks": [
@@ -33,7 +33,8 @@ export const defaultState = {
     "josh" : "https://avatars3.githubusercontent.com/u/1072233?v=4&s=80",
     "nader" : "https://avatars3.githubusercontent.com/u/8159867?v=4&s=80",
     "jamie" : "https://avatars3.githubusercontent.com/u/22056320?v=4&s=80",
-    "divya" : "https://avatars2.githubusercontent.com/u/36862811?s=400&v=4"
+    "divya" : "https://avatars2.githubusercontent.com/u/36862811?v=4&s=80",
+    "sameer" : "https://avatars0.githubusercontent.com/u/1062564?v=4&s=80"
   },
   "badges": {},
   "locked": {},
